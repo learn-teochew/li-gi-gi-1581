@@ -1,6 +1,12 @@
-# 新刻增補全像鄉談荔枝記卷之乙
+---
+digitization-url: http://data.onb.ac.at/rep/1037167F
+digitization-license: https://rightsstatements.org/page/NoC-NC/1.0/?language=en
+digitization-rights: Österreichische Nationalbibliothek
+transcription-license: http://creativecommons.org/licenses/by/4.0/
+transcriber : Brandon Seah
+---
 
-http://data.onb.ac.at/rep/1037167F
+# 新刻增補全像鄉談荔枝記卷之乙
 
 ## 書林 南陽堂 業文橋 繡梓
 
@@ -9617,28 +9623,3 @@ XX禍到臨時悔後遲
 ## 萬曆辛己歲冬月•朱氏與畊堂梓行
 
 ## 新刻全像增補鄉談荔枝記大全卷之四終
-
-
-
-
-
->  Useful  characters for copy-paste: 
->
->  <sup>匕</sup><sub>匕</sub><sup>匕</sup>
->
->  呌 楼 一个 听 厛斈 厶 体 㑪斉 嘪趂殰凨溌𠯦 哖 丁痁 喉嘮𠯦噉 馨 忒𢙣𠚫吊 緫 帰 筭 躭 嗏 靣𡀎窓怯悞墻侢札 𦂳 𡟇 銕 皷䖝觧𦖦皷関耻 腌𦠛悞湏攅𧇊嗏虚豊鬦躭枷㜕盃鵉
->
->  致 = question particle di7
->
->  嘮 = SFP, similar to 𡀔、了
->
->  趂 - could be duê?
->
->  check: ⿱父二 could be 爺、爷 not 爹？
->
->  審？
->
->  check 即 often confused with 郎
->
->  𮞏 （⿺辶𭘑）同 遞
-
