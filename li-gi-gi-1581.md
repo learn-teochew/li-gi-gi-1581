@@ -918,6 +918,8 @@ XXX 椅坐討［蕃？］來食林兄請坐
 
 ［……？……］
 
+> CHECK: page 171 in PDF is badly cropped, part of text missing 
+
 （旦春婆）
 
 XXX
@@ -5060,19 +5062,21 @@ X行你是小七伊後來呌來呌做小八
 
 （旦唱）
 
-＊……你是乜般人子兒緣何來到只。乞人做奴婢
+＊■你是乜般人子兒緣何來到只。乞人做奴婢
+
+> There is a tear in the page (96 in PDF), some text missing.
 
 （生白）
 
-……說着陳三做奴起來X打心肝心呀酸
+■■說着陳三做奴起來X打心肝心呀酸
 
 （唱）
 
-＊見……城好。心頭要得桃
+＊見■■城好。心頭要得桃
 
 （旦白）
 
-我且問你得𣑯无乜花……柳巷不中你得𣑯走來人厝做奴向好得𣑯
+我且問你得𣑯无乜花■柳巷不中你得𣑯走來人厝做奴向好得𣑯
 
 （生唱）
 
@@ -5450,7 +5454,7 @@ X畏掃辛苦無人通伏事你
 
 益春<sup>匕</sup><sub>匕</sub>行
 
-……［第91頁缺一行？］……
+> CHECK: One line missing in the PDF version (pg. 91) but visible in the online browser
 
 就放恁入去
 
@@ -7329,6 +7333,8 @@ X畏掃辛苦無人通伏事你
 （夫白）
 
 伊子共陳三走了
+
+> CHECK: Whole page is visible in PDF version but higher-resolution image in online browser has right-most line partly cropped.
 
 （大白）
 
@@ -9210,7 +9216,7 @@ X來
 
 ## 〔第四十六齣〕
 
-> (Heading for chapter 46 missing from scan?)
+> CHECK: Heading for chapter 46 missing from scan (pg. 15 in PDF) but visible in online version
 
 （運使上）（唱）
 
