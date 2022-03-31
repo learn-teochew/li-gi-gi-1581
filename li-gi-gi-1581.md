@@ -1,9 +1,9 @@
 ---
 digitization-url: http://data.onb.ac.at/rep/1037167F
 digitization-license: https://rightsstatements.org/page/NoC-NC/1.0/?language=en
-digitization-rights: Österreichische Nationalbibliothek
+digitization-attribution: Österreichische Nationalbibliothek
 transcription-license: http://creativecommons.org/licenses/by/4.0/
-transcriber : Brandon Seah
+transcription-attribution : Brandon Seah (https://learn-teochew.github.io/)
 ---
 
 # 新刻增補全像鄉談荔枝記卷之乙
