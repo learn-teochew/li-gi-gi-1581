@@ -914,17 +914,15 @@ XXX 椅坐討［蕃？］來食林兄請坐
 
 （旦白）
 
-益春X
+益春
 
-［……？……］
+（婆唱）
 
-> CHECK: page 171 in PDF is badly cropped, part of text missing 
+閑言野語莫听伊赧今相𡥘轉員
 
-（旦春婆）
+（旦春婆）（並下）
 
-XXX
-
-（白）
+（林白）
 
 且寬轉去來得桃一下
 
@@ -5452,11 +5450,11 @@ X畏掃辛苦無人通伏事你
 
 （旦白）
 
-益春<sup>匕</sup><sub>匕</sub>行
+益春<sup>匕</sup><sub>匕</sub>行開乞人入去你殰膽人知你微死嘮
 
-> CHECK: One line missing in the PDF version (pg. 91) but visible in the online browser
+（生白）
 
-就放恁入去
+阿𭑧既惱就放恁入去
 
 （旦白）
 
@@ -7333,8 +7331,6 @@ X畏掃辛苦無人通伏事你
 （夫白）
 
 伊子共陳三走了
-
-> CHECK: Whole page is visible in PDF version but higher-resolution image in online browser has right-most line partly cropped.
 
 （大白）
 
@@ -9214,9 +9210,7 @@ X來
 
 百年冤家終了日林大免相鬦官司
 
-## 〔第四十六齣〕
-
-> CHECK: Heading for chapter 46 missing from scan (pg. 15 in PDF) but visible in online version
+## 第四十六齣
 
 （運使上）（唱）
 
