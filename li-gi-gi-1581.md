@@ -4,6 +4,12 @@ digitization-license: https://rightsstatements.org/page/NoC-NC/1.0/?language=en
 digitization-attribution: Österreichische Nationalbibliothek
 transcription-license: http://creativecommons.org/licenses/by/4.0/
 transcription-attribution : Brandon Seah (https://learn-teochew.github.io/)
+metadata-fields: # explanation of fields in this YAML header
+  digitization-url: URL for digital scan of source that was consulted to make the text transcription
+  digitization-license: License for digital scan images (not the source text itself)
+  digitization-attribution: Creator or publisher of digital scan who has released the scan under above license
+  transcription-license: License for transcription of the source (text only, not the images), i.e. this document
+  transcription-attribution: Creator or publisher of the text transcription
 ---
 
 # 新刻增補全像鄉談荔枝記卷之乙
