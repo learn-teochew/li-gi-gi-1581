@@ -2,7 +2,7 @@ Variant and unusual characters
 
 <sup>匕</sup><sub>匕</sub><sup>匕</sup>
 
-呌楼厛斈厶趂殰𦂳忒𢙣𠚫盃觧𧇊虚
+呌楼厛斈厶趂殰𦂳忒𢙣𠚫盃觧𧇊虚気
 
 体㑪斉侢
 
@@ -12,7 +12,7 @@ Variant and unusual characters
 
 怯悞  溌湏
 
-凨痁馨帰筭緫窓墻札𡟇銕皷䖝攅豊枷㜕鵉
+凨痁馨帰䝨筭緫窓墻札𡟇銕皷䖝攅豊枷㜕鵉
 
 致 = question particle di7
 
