@@ -26,3 +26,19 @@ were illegible or missing due to damage in the original are marked with `■`.
 
 As the transcription is being proofread and edited, additional notes (e.g.
 `TODO` and `STOP`) to mark points of progress may be left in the file.
+
+
+Issues with PDF export from OeNB
+--------------------------------
+
+Digitized version from the OeNB can either be viewed in the browser online, or
+exported to PDF for download. Cropping or formatting issues with the PDF
+compared to the browser version are documented here.
+
+ * page 171 in PDF is badly cropped, part of text missing 
+ * One line missing in the PDF version (pg. 91) but visible in the online
+   browser
+ * Whole pg 51 is visible in PDF version but higher-resolution image in online
+   browser has right-most line partly cropped.
+ * Heading for chapter 46 missing from scan (pg. 15 in PDF) but visible in
+   online version
